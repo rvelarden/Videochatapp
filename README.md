@@ -1,3 +1,14 @@
+Welcome to LetsVideochat!
+
+this application enables the user to make and receive video calls to interact with other users.
+
+The technologies used to develop this app:
+
+-WebRTC
+-Socket.IO
+-PeerJS
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
